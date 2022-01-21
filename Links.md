@@ -5,3 +5,14 @@ Example:
 You can also Bold some words in your link text.
 Example:
 [You're **really, really** going to want to see this.](www.dailykitten.com)
+
+You can make link in Headings.
+Example:
+####The Latest News from [the BBC](WWW.BBC.COM/NEWS:)
+
+The other type of link is Reference link.
+Example:
+Do you want to [a fun place][www.zombo.com]?
+Well, do I have [www.stumbleupon.com][another fun place]!
+[a fun place]: www.zombo.com
+[another fun place]: www.stumbleupon.com
