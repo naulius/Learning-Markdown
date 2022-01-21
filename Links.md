@@ -12,7 +12,7 @@ Example:
 
 The other type of link is Reference link.
 Example:
-Do you want to [a fun place][www.zombo.com]?
-Well, do I have [www.stumbleupon.com][another fun place]!
+Do you want to [a fun place][]?
+Well, do I have [another fun place][]!
 [a fun place]: www.zombo.com
 [another fun place]: www.stumbleupon.com
