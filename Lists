@@ -1,0 +1,43 @@
+There are to types of Lists in Markdown, one list in ordered with numbers and the oder one unordered which starts with bullet points.
+Unordered list with bullet points starts the with an asterisk and you can see it in Markdown with bullet points.
+Example:
+* Flour
+* Cheese
+* Tomatoes
+
+A list in order you prefaced the list with a number and point.I'ts going to look the same in Markdown.
+Example:
+1. Cut the cheese
+2. Slice the tomatoes
+3. Rub the tomatoes in flour
+
+It's possible to add Italics, Bold and links to a list.
+EXample:
+* Azalea (_Ericaceae Rhododendron_)
+* Chrysanthemum (_Anthemideae Chrysanthemum_)
+* Dahlia (_Coreopsideae Dahlia_)
+
+You can have a sub-list in your list, you have to indent your sub-list, also you prefaced with an asterik as your list.
+Example:
+* Calculus professor
+ * Has no hair
+ * Often wears green
+* Castafiore
+ * An opera singer
+ * Has white hair
+ * is possibly mentally unwell
+ 
+ You can also have paragraph under your list, you have to indent it and if you want leave one space.
+ Example:
+ 1. Cut the cheese
+
+   Make sure that the cheese is cut into little triangles.
+
+ 2. Slice the tomatoes
+  
+   Be careful when holding the knife.
+
+   For more help on tomato slicing, see Thomas Jefferson's seminal    essay _Tom Ate Those_.
+   
+   
+   
