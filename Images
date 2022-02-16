@@ -1,0 +1,12 @@
+You can also make a link to an image. The first option is to create a inline image link. Start with an exclamation point, the write a text beteween brackets 
+and write the link.
+EXample:
+![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
+An other way to link images is to use reference image.Like in reference link, you need to associate the text to a link. Then, the word is going to be underlined
+it means that is related to a link.
+Example:
+[Black][]
+[Orange][]
+[Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+[Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
